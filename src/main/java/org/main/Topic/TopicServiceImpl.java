@@ -2,8 +2,6 @@ package org.main.Topic;
 
 import org.main.Topic.DTO.TopicDTO;
 import org.main.exceptions.TopicNotFoundException;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.context.config.ConfigDataResourceNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
